@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @meena-102624
+- 👋 Hi, I’m @meena 
 - 👀 I’m interested in data analsyt
 - 🌱 I’m currently learning data science and machine learning
 - 💞️ I’m looking to collaborate on data science
